@@ -14,7 +14,7 @@ html, body{
   }
 
 body{
-    background-image:url(/image/fondoNegro2.jpg);
+    background-image:url(image/fondoNegro2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -84,7 +84,7 @@ header h1{
         font-size: 30px;
     }
     body{
-        background-image:url(imagenes/fondoNegro2.jpg);
+        background-image:url(image/gggrain.svg);
         background-repeat: no-repeat;
         background-size: cover
     }
