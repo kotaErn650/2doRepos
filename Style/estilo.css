@@ -14,7 +14,7 @@ html, body{
   }
 
 body{
-    background-image:url(image/fondoNegro2.jpg);
+    background-image:url(../image/fondoNegro2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -34,7 +34,7 @@ header h1{
     display: flex;
     justify-content: space-around;
     color: rgb(8, 2, 1);
-    background-image: url(image/gggrain.svg);
+    background-image: url(../image/fondoNegro2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20PX;
@@ -84,7 +84,7 @@ header h1{
         font-size: 30px;
     }
     body{
-        background-image:url(image/gggrain.svg);
+        background-image:url(../image/gggrain.svg);
         background-repeat: no-repeat;
         background-size: cover
     }
@@ -103,7 +103,7 @@ header h1{
     }
 }
 .tabla1{
-    background-image: url(image/TalentoTech.png);
+    background-image: url(/image/gggrain.svg);
     background-size: cover;
     background-repeat: no-repeat;
     
