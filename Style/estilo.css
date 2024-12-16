@@ -103,7 +103,7 @@ header h1{
     }
 }
 .tabla1{
-    background-image: url(/image/gggrain.svg);
+    background-image: url(../image/gggrain.svg);
     background-size: cover;
     background-repeat: no-repeat;
     
